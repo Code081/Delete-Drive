@@ -11,7 +11,7 @@ I created this script after accidentally uploading millions of dataset photos to
 ## Usage
 1. Clone this repository to your local machine.
 2. Create a virtual environment and activate it.
-3. Install the required dependencies from the `requirements.md` file.
+3. Install the required dependencies from the `requirements.txt` file.
 4. Create a Google Cloud account and enable the Google Drive API.
 5. Generate the credentials to be used in the script.
 6. Configure the script with your Google Drive credentials.
